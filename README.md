@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gabriel, 18 years old and always looking for new knowledge!!! <br>
+I'm Gabriel, I has 18 years old and always looking for new knowledge!!! <br>
 This is my github, where I submit my personal projects, what i'm studying and experiments
 
 #### Where can you find me?
