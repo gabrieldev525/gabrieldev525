@@ -4,9 +4,9 @@ I'm Gabriel, 18 years old and always looking for new knowledge!!! <br>
 This is my github, where I submit my personal projects, what i'm studying and experiments
 
 #### Where can you find me?
-- [Linkedin](linkedin.com/in/gabriel-victor-7a5425191)
+- [Linkedin](https://linkedin.com/in/gabriel-victor-7a5425191)
 - [gvictor525.gv@gmail.com](mailto:gvictor525.gv@gmail.com)
-- [My website](gvictor.com.br)
+- [My website](https://gvictor.com.br)
 
 <!--
 **gabrieldev525/gabrieldev525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
