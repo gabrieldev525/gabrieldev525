@@ -12,7 +12,7 @@ I'm a fullstack developer!!
 - [My website](https://gvictor.com.br)
 
 #### What am i learning or looking for?
-- UI/UX design: One thing I would never imagine that one day I would study, but it was love at first sight!!
+- UI/UX design: One thing I would never imagine that one day I would study.
 - React JS, all frontend architecture and the best pratice to improve the development using react js!
-- Mobile development using cross-plataform: Yes, i'm studying about React native and flutter. I always developed with native way, but the cross plataform is awesome!! I loved it
-- Node JS: The javascript stack is complete, the node JS as a backend is awesome!
+- Mobile development using cross-plataform: Yes, i'm studying about React native and flutter. I always developed with native way, but the cross plataform is awesome!!
+- Node JS: The javascript stack is complete.
