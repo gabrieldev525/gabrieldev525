@@ -9,7 +9,6 @@ I'm a fullstack developer!!
 #### Where can you find me?
 - [Linkedin](https://linkedin.com/in/gabriel-victor-7a5425191)
 - [gvictor525.gv@gmail.com](mailto:gvictor525.gv@gmail.com)
-- [My website](https://gvictor.com.br)
 
 #### What am i learning or looking for?
 - UI/UX design: One thing I would never imagine that one day I would study.
