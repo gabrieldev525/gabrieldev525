@@ -1,17 +1,19 @@
-### Hi there 👋
+:sparkles: **Entusiasta do mundo da programação!** :sparkles:
 
-I'm Gabriel, I'm 19 years old and always looking for new knowledge!!! <br>
-This is my github, where I submit my personal projects, what i'm studying and experiments <br>
-I'm a fullstack developer!!
+Me chamo Gabriel, tenho 19 anos! Estudo programação desde os 12 anos de idade.
 
-**Technologies:** React JS, React Native, Node JS, Django, Docker, Python, Html, Css, JS, Php and others
+Atualmente sou desenvolvedor Senior  na Morphus Segurança da Informação, desenvolvendo plataformas web utilizando React JS com Typescript e Django no backend.
 
-#### Where can you find me?
+:brain: Apaixonado por compartilhar conhecimento, ensinar pessoas e impactar positivamente suas vidas.
+
+:books: Sempre buscando melhorar meus conhecimentos. Atualmente, estudando microserviços, design patterns e vue JS.
+
+#### :link: Contatos
 - [Linkedin](https://linkedin.com/in/gabriel-victor-7a5425191)
 - [gvictor525.gv@gmail.com](mailto:gvictor525.gv@gmail.com)
 
-#### What am i learning or looking for?
-- UI/UX design: One thing I would never imagine that one day I would study.
-- React JS, all frontend architecture and the best pratice to improve the development using react js!
-- Mobile development using cross-plataform: Yes, i'm studying about React native and flutter. I always developed with native way, but the cross plataform is awesome!!
-- Node JS: The javascript stack is complete.
+**:desktop_computer: Tecnologias:** 
+- React JS, React Native, Node JS, Django, Docker, Python, Html, Css, JS, Php and others
+
+<br>
+:rocket: I will continue coding while(true) {}
