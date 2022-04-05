@@ -1,6 +1,6 @@
 :sparkles: **Entusiasta do mundo da programação!** :sparkles:
 
-Me chamo Gabriel, tenho 19 anos! Estudo programação desde os 12 anos de idade.
+Me chamo Gabriel, tenho 20 anos! Estudo programação desde os 12 anos de idade.
 
 Atualmente sou desenvolvedor Senior  na Morphus Segurança da Informação, desenvolvendo plataformas web utilizando React JS com Typescript e Django no backend.
 
