@@ -6,7 +6,7 @@ Atualmente atuo como Software Engineer na @nubank.
 
 :brain: Apaixonado por compartilhar conhecimento, ensinar pessoas e impactar positivamente suas vidas.
 
-:books: Sempre buscando melhorar meus conhecimentos. Atualmente, estudando microserviços, design patterns e vue JS.
+:books: Sempre buscando melhorar meus conhecimentos.
 
 #### :link: Contatos
 - [Linkedin](https://linkedin.com/in/gabriel-victor-7a5425191)
