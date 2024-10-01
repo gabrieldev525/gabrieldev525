@@ -1,6 +1,6 @@
 :sparkles: **Entusiasta do mundo da programação!** :sparkles:
 
-Me chamo Gabriel, tenho 21 anos! Estudo programação desde os 12 anos de idade.
+Me chamo Gabriel! Estudo programação desde os 12 anos de idade.
 
 Atualmente atuo como Software Engineer na @nubank.
 
